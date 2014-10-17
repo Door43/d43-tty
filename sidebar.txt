@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[tty:home|Door43 (tty)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-tty|d43-tty repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-tty/archive/master.zip|d43-tty.zip]]
+
+**Recent Changes**
+{{changes>ns = tty}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/tty|Ethnologue data]]
+
